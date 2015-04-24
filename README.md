@@ -1,2 +1,7 @@
 # wiSH
-B'day WiSH script in SH
+This one wishes for a B'day
+
+Usage: wish <name> <countdown>
+Sample: wish Jack 5
+
+Requires banner command.
