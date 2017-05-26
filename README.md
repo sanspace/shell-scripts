@@ -1,7 +1,5 @@
-# wiSH
-This one wishes for a B'day
+# Shell Scripts
 
-Usage: wish <name> <countdown>
-Sample: wish Jack 5
+### Utilities written over time
 
-Requires banner command.
+A place to keep the quick and dirty shell utilities
